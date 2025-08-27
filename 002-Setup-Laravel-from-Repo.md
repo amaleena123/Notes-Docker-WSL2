@@ -65,7 +65,7 @@
 # 3) Generate Docker Sail file
         docker run --rm -u "$(id -u):$(id -g)" -v "$PWD":/app -w /app \
             laravelsail/php84-composer:latest \
-            php artisan sail:install --with=mariadb,redis,phpmyadmin
+            php artisan sail:install --with=mariadb,redis
 
 # 4) Prepare the .env
 
