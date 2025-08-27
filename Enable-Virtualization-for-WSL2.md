@@ -1,6 +1,7 @@
 #Virtualization Machine platform is disbaled on your laptop
 
-<img width="781" height="439" alt="image" src="https://github.com/user-attachments/assets/0d686cd3-5b9e-4b40-922d-5b4a51dc3e4e" />  
+<img width="772" height="433" alt="Screenshot 2025-08-27 134356" src="https://github.com/user-attachments/assets/9967d756-ad4f-4c68-b11d-6fed5786ef5f" />
+ 
   
   The Virtualization is enabled after the required setup.
 
